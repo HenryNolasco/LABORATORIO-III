@@ -1,0 +1,20 @@
+{
+  "name": "laboratorio-iii",
+  "version": "1.0.0",
+  "main": "EjercicioCuatro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryNolasco/LABORATORIO-III.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryNolasco/LABORATORIO-III/issues"
+  },
+  "homepage": "https://github.com/HenryNolasco/LABORATORIO-III#readme",
+  "description": ""
+}
